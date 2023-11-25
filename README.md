@@ -3,7 +3,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=dracula)
 
-[![EraldoOL WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/EraldoOL/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraldoOL &hide_progress=true)
 
 ## SKILLS
 
