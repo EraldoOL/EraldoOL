@@ -1,11 +1,9 @@
 ## Olá! Bem-Vindo 🖐️
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@PIONNEE?si=j4jlGm1vNPCaoYp7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_eo0/)
-
-
 ![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=dracula)
+
+[![EraldoOL WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/EraldoOL/github-readme-stats)
 
 ## SKILLS
 
@@ -17,3 +15,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 </div><br/>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/EraldoOL/count.svg" /></p>
+
+## SOCIAL/CONTACT
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@PIONNEE?si=j4jlGm1vNPCaoYp7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_eo0/)
