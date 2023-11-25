@@ -1,7 +1,7 @@
 ## Olá! Bem-Vindo 🖐️
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=gruvbox)
+![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraldoOL&layout=compact)
 
