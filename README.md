@@ -16,3 +16,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
   <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div><br/>
 </br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/EraldoOL/count.svg" /></p>
