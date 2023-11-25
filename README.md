@@ -1,5 +1,5 @@
 ## Olá! Bem-Vindo 🖐️
-
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@PIONNEE?si=j4jlGm1vNPCaoYp7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_eo0/)
@@ -15,5 +15,4 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div><br/>
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+</br>
