@@ -19,6 +19,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@PIONNEE?si=j4jlGm1vNPCaoYp7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_eo0/)
+</br>
 
 ## Profile Views
 
