@@ -22,7 +22,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 </br>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=EraldoOL&label=Profile%20Views&color=0&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=EraldoOL&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
 ## Profile Views
 
