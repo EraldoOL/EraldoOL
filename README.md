@@ -21,9 +21,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_eo0/)
 </br>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=EraldoOL&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
 ## Profile Views
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/EraldoOL/count.svg" /></p>
