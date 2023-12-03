@@ -1,9 +1,9 @@
 ## Olá! Bem-Vindo 🖐️
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação,sempre estudando e querendo aprender mais e mais.
 
-![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=false&theme=radical)
+![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EraldoOL&theme=radical&hide_border=falso)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EraldoOL&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraldoOL&theme=radical&layout=compact)
 
