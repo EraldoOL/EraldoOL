@@ -3,6 +3,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=EraldoOL&theme=radical&hide_border=falso)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraldoOL&theme=radical&layout=compact)
 
 ## Skills
