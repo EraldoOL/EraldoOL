@@ -23,5 +23,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_eo0/)
 </br>
 
-</Br>
+</br>
 [![](https://visitcount.itsvg.in/api?id=EraldoOL&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
