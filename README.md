@@ -21,6 +21,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ## Back-end
   
   <img align="center" alt="React" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   
 
    
