@@ -11,7 +11,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
   <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white" />
