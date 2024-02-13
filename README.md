@@ -20,9 +20,9 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ## Back-end
   
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
 <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=white" />
-<img align="center" alt="MySql" src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="MySql" src="https://img.shields.io/badge/mysql-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
   
