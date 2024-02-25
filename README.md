@@ -25,7 +25,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
   
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=003545" />
-<img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=00618A" />
 <img align="center" alt="Sqlite" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align="center" alt="Springboot" src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 
