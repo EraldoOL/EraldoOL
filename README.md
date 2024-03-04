@@ -1,5 +1,3 @@
-## Olá! Bem-Vindo 🖐️
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação,sempre estudando e querendo aprender mais e mais.
 
 ![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical)
 
