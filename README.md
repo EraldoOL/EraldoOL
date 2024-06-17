@@ -27,7 +27,7 @@
 <img align="center" alt="Sqlite" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sqlite&logoColor=lightblue" />
 <img align="center" alt="Springboot" src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=43853D" />
-<img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-black?style=for-the-badge" />
 
 
 
