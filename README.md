@@ -3,7 +3,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EraldoOL&theme=radical&_border=false)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraldoOL&theme=radical&layout=compact&langs_count=20&exclude_repo=php-project)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraldoOL&theme=radical&langs_count=20&exclude_repo=php-project)
+
 ## Front-end
 
 <div style="display: inline_block">
