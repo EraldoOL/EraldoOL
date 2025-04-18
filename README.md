@@ -50,7 +50,7 @@
 </br>
 
 <p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/EraldoOL&no=06&c=800080&bg=000000&ff=digi&s=30" alt="visits">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/EraldoOL&no=80&c=800080&bg=000000&ff=digi&s=30" alt="visits">
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080CD&height=120&section=footer"/>
