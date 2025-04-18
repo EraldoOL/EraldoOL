@@ -51,4 +51,4 @@
 
 
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEraldoOL&s=30&c=1f6feb&bg=00000000&no=6&ff=digi&tb=&ta=" alt="visits">
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010101CD&height=120&section=footer"/>
