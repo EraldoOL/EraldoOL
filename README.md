@@ -50,5 +50,8 @@
 </br>
 
 
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEraldoOL&s=30&c=800080&bg=000000&no=6&ff=digi" alt="visits">
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080CD&height=120&section=footer"/>
+<p align="center">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEraldoOL&s=30&c=800080&bg=000000&no=900&ff=digi" alt="visits">
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080CD&height=120&section=footer"/>
