@@ -49,5 +49,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eraldo-oliveira-58b004243)
 </br>
 
-##
-![Profile Views](https://counterapi.com/hit/EraldoOL/github?count=500)
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEraldoOL&s=30&c=1f6feb&bg=00000000&no=6&ff=digi&tb=&ta=" alt="visits">
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
