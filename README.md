@@ -1,10 +1,16 @@
 ![Preview do site](./eraldo.png)
 
-![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical)
+<!-- Um card em cima -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical" alt="Eraldo Stats">
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EraldoOL&theme=radical&_border=false)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EraldoOL&theme=radical&layout=compact&langs_count=20&hide=HTML,CSS,PHP&cache_seconds=60)
+<!-- Dois cards lado a lado -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EraldoOL&theme=radical&_border=false" alt="GitHub Streak" height="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EraldoOL&theme=radical&layout=compact&langs_count=20&hide=HTML,CSS,PHP&cache_seconds=60" alt="Top Langs" height="180"/>
+</p>
 
 
 ## Front-end
