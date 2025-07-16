@@ -1,4 +1,4 @@
-
+![Preview do site](./eraldo.png)
 
 ![EraldoOL GitHub stats](https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical)
 
