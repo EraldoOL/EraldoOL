@@ -57,6 +57,6 @@
 </br>
 
 <p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/EraldoOL&no=80&c=800080&bg=000000&ff=digi&s=10" alt="visits">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/EraldoOL&no=80&c=800080&bg=000000&ff=digi&s=2" alt="visits">
 </p>
 
