@@ -2,7 +2,7 @@
 
 <!-- Um card em cima -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical" alt="Eraldo Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical" alt="Eraldo Stats" width="120">
 </p>
 
 <!-- Dois cards lado a lado -->
