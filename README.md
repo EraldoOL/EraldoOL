@@ -7,11 +7,13 @@ Sou **Desenvolvedor FullStack** com foco em aplicações **Web**.
 Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **sites, sistemas e IAs personalizadas**.
 
 ### 🎯 Hobbys
-- 🎮 Games, 🎵 músicas e 🎬 séries
+&nbsp;- 🎮 Games, 🎵 músicas e 🎬 séries
+
+ &nbsp;
 - 📚 História, 🔭 Astronomia, ⚛️ Física, 🧬 Biologia, 🧪 Química, 🧠 Filosofia e assuntos relacionados
 
 ### 🚀 Estudando atualmente
-- Backend com **Java**, **Node.js** e **AWS**
+- Backend com **Java**, **Node.js**, **AWS** e outros
 - Aprimorando meus conhecimentos em **Inglês** e **Espanhol**
 
 ---
