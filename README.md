@@ -1,6 +1,21 @@
 ![Preview do site](./eraldo.png)
 
 
+## Olá! Eu sou Eraldo Oliveira
+Sou **Desenvolvedor FullStack** com foco em aplicações **Web**.
+
+Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **sites, sistemas e IAs personalizadas**.
+
+### 🎯 Hobbys
+- 🎮 Games, 🎵 músicas e 🎬 séries
+- 📚 História, 🔭 Astronomia, ⚛️ Física, 🧬 Biologia, 🧪 Química, 🧠 Filosofia e assuntos relacionados
+
+### 🚀 Estudando atualmente
+- Backend com **Java**, **Node.js** e **AWS**
+- Aprimorando meus conhecimentos em **Inglês** e **Espanhol**
+
+---
+
 <!-- Um card em cima -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical" alt="Eraldo Stats">
