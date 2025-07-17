@@ -57,12 +57,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eraldo-oliveira-58b004243)
 </br>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/EraldoOL&no=5&c=800080&bg=000000&ff=digi&s=30" alt="visits">
-</p>
+</p>-->
 
-<!--<div align="center">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EraldoOL.EraldoOL&left_color=darkviolet&right_color=orchid" width="80" />
-</div>-->
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
