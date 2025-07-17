@@ -12,7 +12,7 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
 ### 🎯 Hobbys
 - 🎮 Games, 🎵 músicas e 🎬 séries
  &nbsp;
-- 📚 História, 🔭 Astronomia, ⚛️ Física,  🧬 Biologia, 🧪 Química, 🧠 Filosofia e assuntos relacionados
+- 📚 História, 🔭 Astronomia, ⚛️ Física,<br>🧬 Biologia, 🧪 Química, 🧠 Filosofia e assuntos relacionados
 
 ### 🚀 Estudando atualmente
 - Backend com **Java**, **Node.js**, **AWS** e outros
