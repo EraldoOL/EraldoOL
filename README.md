@@ -2,10 +2,12 @@
 
 
 <!--## Olá! Eu sou Eraldo Oliveira-->
-<p align="center">
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=850DF7&width=435&lines=Eraldo+Oliveira;FullStack+Developer+)](https://git.io/typing-svg)
 Sou **Desenvolvedor FullStack** com foco em aplicações **Web**.
-</p>
+
+</div>
 Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **sites, sistemas e IAs personalizadas**.
 
 ### 🎯 Hobbys
