@@ -61,8 +61,7 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=6DB33F" />
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,mysql,mongodb,mariadb&perline=6)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm,mariadb&perline=6)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,nodejs,mysql,mongodb,mariadb&perline=6)
 
   
 
