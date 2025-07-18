@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff00b3&center=true&width=435&lines=Eraldo+Oliveira;FullStack+Developer+)](https://git.io/typing-svg)
 
+<div align="center">
 Sou **Desenvolvedor FullStack** com foco em aplicações **Web**.
 
 Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **sites, sistemas e IAs personalizadas**.
@@ -17,6 +18,8 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
 ### 🚀 Estudando atualmente
 - Backend com **Java**, **Node.js**, **AWS** e outros
 - Aprimorando meus conhecimentos em **Inglês** e **Espanhol**
+
+</div>
 
 ---
 
