@@ -74,7 +74,7 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=github,git,excel,discordbots,canva,photoshop,groq,vim,render,vercel,powerpoint,vscode&perline=6"
+      src="https://go-skill-icons.vercel.app/api/icons?i=github,git,excel,discordbots,canva,photoshop,groq,vim,render,vercel,powerpoint,vscode"
     />
   </a>
 </p>
