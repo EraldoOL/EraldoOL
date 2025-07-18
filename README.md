@@ -50,7 +50,7 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
   <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,tailwind,bootstrap,react,js,typescript,nextjs,shopify&perline=6"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,js,typescript,nextjs,shopify&perline=6"
     />
   </a>
 </p>
@@ -73,11 +73,6 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
     />
   </a>
 </p>
-
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,nodejs,mysql,mongodb,mariadb,spring,maven&perline=6)
-
-  
 
    
 </div><br/>
