@@ -3,7 +3,11 @@
 
 <!--## Olá! Eu sou Eraldo Oliveira-->
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff00b3&center=true&width=435&lines=Eraldo+Oliveira;FullStack+Developer+)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 Sou **Desenvolvedor FullStack** com foco em aplicações **Web**.
