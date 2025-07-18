@@ -98,10 +98,15 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
 
 ## Social/Contact
 
+<div>
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Eo_tech0?si=j4jlGm1vNPCaoYp7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_eo0/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/EraldoOL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eraldo-oliveira-58b004243)
+
+</div>
+
 </br>
 
 <!--<p align="center">
