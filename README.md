@@ -36,6 +36,7 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
 </p>
 
 <!-- Dois cards lado a lado -->
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EraldoOL&theme=radical&_border=false" alt="GitHub Streak" height="180"/>
   &nbsp;&nbsp;&nbsp;
