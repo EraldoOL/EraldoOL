@@ -28,7 +28,6 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
 </div>
 
 ---
-
 <!-- Um card em cima -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical" alt="Eraldo Stats">
