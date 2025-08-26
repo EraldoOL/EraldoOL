@@ -34,7 +34,7 @@ Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **s
   <img src="https://github-readme-stats.vercel.app/api?username=EraldoOL&show_icons=true&theme=radical" alt="Eraldo Stats">
 </p>
 
-<!-- o-->
+<!-- -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EraldoOL&theme=radical&_border=false" alt="GitHub Streak" height="180"/>
