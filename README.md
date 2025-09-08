@@ -14,7 +14,7 @@
 
 Sou **Desenvolvedor FullStack** com foco em aplicações **Web**.
 
-Atualmente tenho cerca de **2 anos de experiência** na área, desenvolvendo **sites, sistemas e IAs personalizadas**.
+Atualmente tenho um pouco mais de **2 anos de experiência** na área, desenvolvendo **sites, sistemas e IAs personalizadas**.
 
 ### 🎯 Hobbys
 - 🎮 Games, 🎵 músicas e 🎬 séries
