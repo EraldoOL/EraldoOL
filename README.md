@@ -1,7 +1,7 @@
 ![Preview do site](./eraldo.png)
 
 
-<!--## Olá! Eu sou ErdOliver-->
+<!--## Olá! Eu sou ErdOlivr-->
 
 <div align="center">
 
