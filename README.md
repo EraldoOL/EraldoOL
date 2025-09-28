@@ -1,7 +1,7 @@
 ![Preview do site](./eraldo.png)
 
 
-<!--## Olá! Eu s-->
+<!--## Olá! Eus-->
 
 <div align="center">
 
