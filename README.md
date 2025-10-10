@@ -1,7 +1,7 @@
 ![Preview do site](./eraldo.png)
 
 
-<!--#á-->
+<!--#-->
 
 <div align="center">
 
