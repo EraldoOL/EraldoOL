@@ -1,8 +1,11 @@
+<img align="center" style="margin-bottom:100px; object-fit: contain; border: 2px solid black;" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-07fa6b46ff7b.gif">
+
+
 ![Preview do site](./eraldo.png)
 
 
 
-<img align="center" style="margin-bottom:100px; object-fit: contain; border: 2px solid black;" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-07fa6b46ff7b.gif">
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff00b3&center=true&width=435&lines=Eraldo+Oliveira;FullS-tack+Developer+)](https://git.io/typing-svg)
