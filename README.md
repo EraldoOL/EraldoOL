@@ -1,5 +1,5 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain; border: 2px solid black;" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-<img align="center" style="margin-bottom:100px; object-fit: contain; border: 2px solid black;" width="100%" src="./HD Purple Neon Glowing Line Transparent PNG.jpeg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain; border: 2px solid black;" width="100%" src="https://github.com/user-attachments/assets/28044785-635a-4f22-aa50-f2dbe6d0a611" />
 
 
 
